@@ -36,3 +36,5 @@ fin = time.time()
 duree = fin - debut
 
 print(str(duree))
+
+#comment
